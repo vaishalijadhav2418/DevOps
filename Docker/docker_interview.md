@@ -1,3 +1,6 @@
+explain Docker image optimization 
+
+
 Here are **40 essential Docker interview questions with concise, accurate answers**, spanning basic, intermediate, and advanced levels. 🚢
 
 ---
